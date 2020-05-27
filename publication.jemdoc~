@@ -1,0 +1,157 @@
+# jemdoc: menu{MENU}{publication.html}, showsource
+= Publications
+
+
+== Working Papers
+
+. /(authors listed alphabetically in this paper)/ Mihaela van der Schaar, *Yuanzhang Xiao*, and William Zame, "Endogenous Matching: Mitigating Adverse Selection and Moral Hazard," 
+/Working Paper/. Available soon.
+
+
+
+
+== Journal Papers Submitted or In Revision
+
+. *Yuanzhang Xiao*, Florian Dörfler, and Mihaela van der Schaar, 
+"Incentive Design in Peer Review: Rating and Repeated Endogenous Matching," 
+/Submitted/.
+[http://arxiv.org/abs/1411.2139 PDF]
+. *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Foresighted Demand Side Management," 
+/Submitted/. 
+[http://arxiv.org/abs/1401.2185 PDF]
+
+
+
+
+== Journal Papers Accepted
+
+. /(authors are listed alphabetically in this paper)/ Mihaela van der Schaar, *Yuanzhang Xiao*, and William Zame, 
+"[./papers/VDS-XYZ-Zame-EconomicTheory2015.pdf Efficient Outcomes in Repeated Games with Limited Monitoring and Impatient Players]," 
+/Economic Theory/, vol. 60, no. 1, pp. 1-34, Sep. 2015. 
+. *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"[./papers/XYZ-VDS-TEAC2015.pdf Socially-Optimal Design of Service Exchange Platforms with Imperfect Monitoring],"
+/ACM Transactions on Economics and Computation/, vol. 3, no. 4, Jul. 2015. 
+[./papers/XYZ-VDS-TEAC2015-Appendix.pdf [Online Appendix]]
+. Kartik Ahuja, *Yuanzhang Xiao*, and Mihaela van der Schaar, 
+"Efficient Interference Management Policies for Femtocell Networks," 
+accepted by /IEEE Transactions on Wireless Communications/.
+. Kartik Ahuja, *Yuanzhang Xiao*, and Mihaela van der Schaar, 
+"Distributed Interference Management Policies for Heterogeneous Small Cell Networks," 
+accepted by /IEEE Journal on Selected Areas in Communications, Special Issue on Heterogeneous Cellular Networks/. 
+[http://arxiv.org/abs/1411.5102 PDF]
+. *Yuanzhang Xiao*, William Zame, and Mihaela van der Schaar, 
+"Technology Choices and Pricing Policies in Public and Private Wireless Networks," 
+to appear in /IEEE Transactions on Wireless Communications/. 
+[http://arxiv.org/abs/1011.3580 PDF]
+. Mahnoosh Alizadeh, *Yuanzhang Xiao*, Anna Scaglione, and Mihaela van der Schaar, 
+"Dynamic Incentive Design for Participation in Direct Load Scheduling Programs," 
+to appear in /IEEE Journal of Selected Topics in Signal Processing, Special issue on Signal Processing in Smart Electric Power Grid/. 
+[http://arxiv.org/abs/1310.0402 PDF]
+. Linqi Song, *Yuanzhang Xiao*, and Mihaela van der Schaar, 
+"Demand Side Management in Smart Grids using a Repeated Game Framework,"
+/IEEE Journal on Selected Areas in Communications, Special Issue on Smart Grid Communications/, vol. 32, no. 7, pp. 1412--1424, Jun. 2014.
+. *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Optimal Foresighted Multi-User Wireless Video," 
+to appear in /IEEE Journal of Selected Topics in Signal Processing, Special issue on Visual Signal Processing for Wireless Networks/. 
+[http://arxiv.org/abs/1311.4227 PDF]
+. *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Energy-efficient Nonstationary Spectrum Sharing," 
+/IEEE Transactions on Communications, vol. 62, no. 3, pp. 810-821, Mar. 2014.
+. Jie Xu, Yiannis Andreopoulos, *Yuanzhang Xiao* and M. van der Schaar, 
+"Non-stationary Resource Allocation Policies for Delay-constrained Video Streaming: Application to Video over Internet-of-Things-enabled Networks," 
+/IEEE Journal on Selected Areas in Communications, Special Issue on Adaptive Media Streaming/, vol. 32, no. 4, pp. 782-794, Apr. 2014.
+. Luca Canzian, *Yuanzhang Xiao*, William Zame, Michele Zorzi, Mihaela van der Schaar, 
+"Intervention with Private Information, Imperfect Monitoring and Costly Communication: Design Framework," 
+/IEEE Transactions on Communications/, vol. 61, no. 8, pp. 3192--3205, Aug. 2013.
+. Luca Canzian, *Yuanzhang Xiao*, William Zame, Michele Zorzi, Mihaela van der Schaar, 
+"Intervention with Complete and Incomplete Information: Application to Flow Control," 
+/IEEE Transactions on Communications/, vol. 61, no. 8, pp. 3206--3218, Aug. 2013.
+. *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Dynamic Spectrum Sharing Among Repeatedly Interacting Selfish Users With Imperfect Monitoring," 
+/IEEE Journal on Selected Areas in Communications, Special issue on Cognitive Radio Series/, vol. 30, no. 10, pp. 1890--1899, Nov. 2012.
+. *Yuanzhang Xiao*, Jaeok Park, and Mihaela van der Schaar, 
+"Repeated Games With Intervention: Theory and Applications in Communications," 
+/IEEE Transactions on Communications/, vol. 60, no. 10, pp. 3123--3132, Oct. 2012.
+. *Yuanzhang Xiao*, Jaeok Park, and Mihaela van der Schaar, 
+"Intervention in Power Control Games with Selfish Users," 
+/IEEE Journal of Selected Topics in  Signal Processing, Special issue on Game Theory In Signal Processing/, vol. 6, no. 2, pp. 165--179, Apr. 2012.
+
+
+
+== Conference
+
+\[CA20\] *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Decentralized Foresighted Energy Purchase and Procurement With Renewable Generation and Energy Storage,"
+/IEEE Conference on Decision and Control/ (CDC), 2014.
+
+\[CA19\] *Yuanzhang Xiao*, Florian Dörfler, and Mihaela van der Schaar, 
+"Rating and Matching in Peer Review Systems," 
+/Allerton Conference on Communication, Control, and Computing/, 2014.
+
+\[CA18\] *Yuanzhang Xiao*, Kartik Ahuja, and Mihaela van der Schaar, 
+"Spectrum Sharing For Delay-Sensitive Applications With Continuing QoS Guarantees," 
+/IEEE Global Communications Conference/ (GLOBECOM), 2014. 
+*(selected as one of the best 50 papers out of 2000+ submitted papers)*
+
+\[CA17\] *Yuanzhang Xiao* and Mihaela van der Schaar, "Optimal Foresighted Packet Scheduling and Resource Allocation for Multi-user Video Transmission in 4G Cellular Networks," 
+/IEEE International Conference on Acoustics, Speech, and Signal Processing/ (ICASSP), 2014.
+
+\[CA16\] Linqi Song, *Yuanzhang Xiao*, and Mihaela van der Schaar, "Non-stationary Demand Side Management Method for Smart Grids," 
+/IEEE International Conference on Acoustics, Speech, and Signal Processing/ (ICASSP) 2014.
+
+\[CA15\] *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Distributed Demand-Side Management Among Foresighted Decision Makers in Power Networks," 
+/Asilomar Conference on Signals, Systems, and Computers/, 2013. *(invited)*
+
+\[CA14\] Mahnoosh Alizadeh, *Yuanzhang Xiao*, Anna Scaglione, and Mihaela van der Schaar, 
+"Incentive Design for Direct Load Control Programs," 
+/Allerton Conference on Communication, Control, and Computing/, 2013. *(invited)*
+
+\[CA13\] *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Spectrum Sharing Policies for Heterogeneous Delay-Sensitive Users: A Novel Design Framework," 
+/Allerton Conference on Communication, Control, and Computing/, 2013.
+
+\[CA12\] *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Nonstationary Resource Sharing with Imperfect Binary Feedback: An Optimal Design Framework for Cost Minimization," 
+/Allerton Conference on Communication, Control, and Computing/, 2013.
+
+\[CA11\] Luca Canzian, *Yuanzhang Xiao*, Michele Zorzi, and Mihaela van der Schaar, 
+"Game Theoretic Design of MAC Protocols: Pricing and Intervention in Slotted-Aloha," 
+/Allerton Conference on Communication, Control, and Computing/, 2013.
+
+\[CA10\] *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Energy-efficient Nonstationary Power Control in Cognitive Radio Networks,"
+/IEEE Global Communications Conference/ (GLOBECOM), 2013.
+
+\[CA9\] *Yuanzhang Xiao*, Yu Zhang, and Mihaela van der Schaar, "Socially-Optimal Design of Crowdsourcing Platforms With Reputation Update Errors," 
+/IEEE International Conference on Acoustics, Speech, and Signal Processing/ (ICASSP), 2013.
+
+\[CA8\] *Yuanzhang Xiao* and Mihaela van der Schaar, 
+"Distributed Spectrum Sharing Policies for Selfish Users with Imperfect Monitoring Ability," 
+/Asilomar Conference on Signals, Systems, and Computers/, 2012. *(invited)*
+
+\[CA7\] *Yuanzhang Xiao* and Mihaela van der Schaar, "Repeated Resource Sharing Among Selfish Players With Imperfect Binary Feedback," 
+/Allerton Conference on Communication, Control, and Computing/, 2012.
+
+\[CA6\] *Yuanzhang Xiao*, Jaeok Park, and Mihaela van der Schaar, 
+"Design and Analysis of Intervention Mechanism In Power Control Games," 
+/IEEE Global Communications Conference/ (GLOBECOM), 2011.
+
+\[CA5\] *Yuanzhang Xiao*, William Zame, and Mihaela van der Schaar, "Technology Choices and Pricing Policies in Wireless Networks," 
+/International Conference on Game Theory for Networks/ (GameNets), 2011.
+
+\[CA4\] Yin Sun, *Yuanzhang Xiao*, Ming Zhao, Xiaofeng Zhong, Shidong Zhou, and Ness B. Shroff, 
+"Joint Power and Channel Resource Allocation for F/TDMA Decode and Forward Relay Networks," 
+/IEEE Global Communications Conference/ (GLOBECOM), 2009.
+
+\[CA3\] Peng Xu, *Yuanzhang Xiao*, and Ming Zhao, 
+"ICI Analysis of MIMO-OFDM Systems With Independent Phase Noise at Both Transmit and Receive Antennas," 
+/International Conference on Wireless Communications, Networking and Mobile Computing/ (WiCOM), 2009.
+
+\[CA2\] *Yuanzhang Xiao*, Wei Miao, Ming Zhao, Shidong Zhou, and Jing Wang, "Limited-feedback Modified Block Diagonalization for Multiuser MIMO Downlink With Time-Varying Channels," 
+/IEEE International Conference on Communications/ (ICC), 2009.
+
+\[CA1\] *Yuanzhang Xiao* and Shidong Zhou, 
+"Downlink Linear Max-MSE Transceiver Design for Multiuser MIMO Systems Via Dual Decomposition," 
+/IEEE Vehicular Technology Conference/ (VTC), 2008.

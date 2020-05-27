@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Research
+
+I am broadly interested in the analysis and design of *multi-agent systems*. In particular, I am fascinated by large-scale /networks/ of /intelligent/ agents sharing, exchanging, and competing for resources. Some key features of these networks are:
+- the agents autonomously make intelligent decisions based on incomplete information; 
+- the underlying network greatly influences the interaction among the agents.
+
+Correspondingly, a recurring theme of my research is to
+- understand how to make decisions from the agents' perspectives; 
+- design the ``playground'' of multi-agent interaction from the network operator's perspective. 
+
+I strive to understand the fundamental limits of these systems, develop scalable, optimal decision making rules for the agents, and provide insights on efficient system design for the network operator. I leverage tools from optimization, game theory, and reinforcement learning, and more importantly develop new tools, since existing tools are often not applicable.
+
+I am interested in and have worked on a variety of applications, such as 
+- *wireless networks* (e.g., 5G, Internet of Things (IoT), device-to-device (D2D), wireless on-demand networking)
+- *smart grid* (e.g., electricity markets, demand response)
+- *socio-technological networks* (e.g., sharing economy, crowdsourcing). 
