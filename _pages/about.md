@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -24,4 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an associate professor in [Hawaiʻi Advanced Wireless Technologies Institute](http://hcac.hawaii.edu/) at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/), and am also affiliated with [Electrical and Computer Engineering](https://ee.hawaii.edu/home/). 
+I am an associate professor in [Hawaiʻi Advanced Wireless Technologies Institute](http://hcac.hawaii.edu/) 
+at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/), and am also affiliated with 
+[Electrical and Computer Engineering](https://ee.hawaii.edu/home/).
