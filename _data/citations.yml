@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-09'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -130,7 +130,7 @@ papers:
     title: Advanced base station concept for wireless connectivity in rural areas
     year: '2020'
   Ya3CmFcAAAAJ:LPZeul_q3PIC:
-    citations: 21
+    citations: 22
     title: Stakeholder influences on management control systems for ESG governance and reporting in the global automotive industry
     year: '2024'
   Ya3CmFcAAAAJ:LkGwnXOMwfcC:
@@ -166,7 +166,7 @@ papers:
     title: Efficient outcomes in repeated games with limited monitoring
     year: '2015'
   Ya3CmFcAAAAJ:OU6Ihb5iCvQC:
-    citations: 99
+    citations: 100
     title: Personalized federated recommendation via joint representation learning, user clustering, and model adaptation
     year: '2022'
   Ya3CmFcAAAAJ:P5F9QuxV20EC:
@@ -422,7 +422,7 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 62
+    citations: 63
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:t6usbXjVLHcC:
@@ -430,7 +430,7 @@ papers:
     title: Thin Films Complex Permittivity Simulation, Analysis, and Experimental Measurements
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
-    citations: 49
+    citations: 50
     title: 'Perfedrec++: Enhancing personalized federated recommendation with self-supervised pre-training'
     year: '2024'
   Ya3CmFcAAAAJ:tS2w5q8j5-wC:
@@ -462,7 +462,7 @@ papers:
     title: Design and analysis of intervention mechanisms in power control games
     year: '2011'
   Ya3CmFcAAAAJ:vRqMK49ujn8C:
-    citations: 2
+    citations: 3
     title: 'Natural disaster risk and firm performance: Text mining and machine learning approach'
     year: '2023'
   Ya3CmFcAAAAJ:wbdj-CoPYUoC:
