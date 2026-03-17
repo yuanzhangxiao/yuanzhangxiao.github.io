@@ -33,5 +33,5 @@ drawing tools from operations research (optimization, dynamic programming),
 economics (game theory), and reinforcement learning.
 Recently, I've been teaching LLMs to autoformulate and solve these problems,
 from optimization, to Markov decision processes, to dynamical systems
-for scientific discovery.
-I'm now exploring how to build more autonomous, principled AI agents and agent networks.
+for scientific discovery. I'm now exploring how to build more autonomous,
+principled AI agents and agent networks.
