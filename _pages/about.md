@@ -2,6 +2,9 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
+
 subtitle: AI, decision, and discovery
 
 profile:
