@@ -45,9 +45,11 @@
 
       .abbr {
         margin-bottom: 0.5rem;
+        text-align: left;
 
         abbr {
           display: inline-block;
+          width: auto;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
