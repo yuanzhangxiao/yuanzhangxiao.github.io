@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *AI, decision, and discovery*
+subtitle: AI, decision, and discovery
 
 profile:
   align: right
