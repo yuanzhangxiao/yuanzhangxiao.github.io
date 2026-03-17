@@ -1,10 +1,10 @@
 /* PaperMod-like light gray background (#f5f5f5) */
 :root {
-  --global-bg-color: rgb(245, 245, 245);      /* page background */
+  --global-bg-color: rgb(245, 245, 245); /* page background */
   --global-card-bg-color: rgb(255, 255, 255); /* keep cards/blocks white */
   --global-code-bg-color: rgb(245, 245, 245); /* optional: match PaperMod feel */
-  --global-theme-color: #00BDB6; /* #024731; */
-  --global-hover-color: #00BDB6; /* #024731; */
+  --global-theme-color: #133844; /* #024731; */
+  --global-hover-color: #133844; /* #024731; */
 
   /* Useful if buttons/badges use the hover background color */
   --global-hover-text-color: #ffffff;
@@ -28,5 +28,5 @@ nav.navbar {
 
 /* Optional: force visited links to stay the same green */
 a:visited {
-  color: #00BDB6; /* #024731; */
+  color: #133844; /* #024731; */
 }
