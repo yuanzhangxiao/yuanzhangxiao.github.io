@@ -1,0 +1,22 @@
+/* PaperMod-like light gray background (#f5f5f5) */
+:root {
+  --global-bg-color: rgb(245, 245, 245);      /* page background */
+  --global-card-bg-color: rgb(255, 255, 255); /* keep cards/blocks white */
+  --global-code-bg-color: rgb(245, 245, 245); /* optional: match PaperMod feel */
+}
+
+/* Make sure the whole page (including navbar) uses the same background color */
+html,
+body {
+  background-color: var(--global-bg-color);
+}
+
+.navbar,
+nav.navbar {
+  background-color: var(--global-bg-color);
+}
+
+/* Optional: if your navbar has a border/shadow that looks odd on gray, soften it */
+.navbar {
+  box-shadow: none;
+}
