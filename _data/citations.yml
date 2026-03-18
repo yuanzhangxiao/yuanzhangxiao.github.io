@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-03-18'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -130,7 +130,7 @@ papers:
     title: Advanced base station concept for wireless connectivity in rural areas
     year: '2020'
   Ya3CmFcAAAAJ:LPZeul_q3PIC:
-    citations: 23
+    citations: 24
     title: Stakeholder influences on management control systems for ESG governance and reporting in the global automotive industry
     year: '2024'
   Ya3CmFcAAAAJ:LkGwnXOMwfcC:
@@ -166,7 +166,7 @@ papers:
     title: Efficient outcomes in repeated games with limited monitoring
     year: '2015'
   Ya3CmFcAAAAJ:OU6Ihb5iCvQC:
-    citations: 100
+    citations: 101
     title: Personalized federated recommendation via joint representation learning, user clustering, and model adaptation
     year: '2022'
   Ya3CmFcAAAAJ:P5F9QuxV20EC:
@@ -330,11 +330,11 @@ papers:
     title: Robust supply function bidding in electricity markets with renewables
     year: '2016'
   Ya3CmFcAAAAJ:fQNAKQ3IYiAC:
-    citations: 7
+    citations: 8
     title: Adaptive top-k in sgd for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 65
+    citations: 66
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -382,7 +382,7 @@ papers:
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 33
+    citations: 34
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
@@ -422,7 +422,7 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 63
+    citations: 64
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:t6usbXjVLHcC:
@@ -430,7 +430,7 @@ papers:
     title: Thin Films Complex Permittivity Simulation, Analysis, and Experimental Measurements
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
-    citations: 50
+    citations: 51
     title: 'Perfedrec++: Enhancing personalized federated recommendation with self-supervised pre-training'
     year: '2024'
   Ya3CmFcAAAAJ:tS2w5q8j5-wC:
