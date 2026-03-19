@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an associate professor of **[Electrical and Computer Engineering](https://ee.hawaii.edu/home/)** at the **[University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/)**, and affiliated with **[Hawaiʻi Advanced Wireless Technologies Institute](http://hcac.hawaii.edu/)**.
+I am an associate professor of [Electrical and Computer Engineering](https://ee.hawaii.edu/home/) at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/), and affiliated with [Hawaiʻi Advanced Wireless Technologies Institute](http://hcac.hawaii.edu/).
 
 I was trained to rigorously solve multi-agent decision-making problems,
 drawing tools from operations research (optimization, dynamic programming),
