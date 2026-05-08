@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-08'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Appendix for ENERGY-EFFICIENT NONSTATIONARY POWER CONTROL IN COGNITIVE RADIO NETWORKS
     year: Unknown Year
   Ya3CmFcAAAAJ:4fKUyHm3Qg0C:
-    citations: 50
+    citations: 52
     title: Improving long-tail item recommendation with graph augmentation
     year: '2023'
   Ya3CmFcAAAAJ:5Ul4iDaHHb8C:
@@ -118,7 +118,7 @@ papers:
     title: Advanced base station concept for wireless connectivity in rural areas
     year: '2020'
   Ya3CmFcAAAAJ:LPZeul_q3PIC:
-    citations: 24
+    citations: 25
     title: Stakeholder influences on management control systems for ESG governance and reporting in the global automotive industry
     year: '2024'
   Ya3CmFcAAAAJ:LkGwnXOMwfcC:
@@ -142,7 +142,7 @@ papers:
     title: 'Things: Control Algorithms, Machine Learning, and Testbeds'
     year: '2024'
   Ya3CmFcAAAAJ:NaGl4SEjCO4C:
-    citations: 25
+    citations: 26
     title: To send or not to send-learning MAC contention
     year: '2015'
   Ya3CmFcAAAAJ:NhqRSupF_l8C:
@@ -154,7 +154,7 @@ papers:
     title: Efficient outcomes in repeated games with limited monitoring
     year: '2015'
   Ya3CmFcAAAAJ:OU6Ihb5iCvQC:
-    citations: 109
+    citations: 111
     title: Personalized federated recommendation via joint representation learning, user clustering, and model adaptation
     year: '2022'
   Ya3CmFcAAAAJ:P5F9QuxV20EC:
@@ -202,7 +202,7 @@ papers:
     title: Integrated energy monitoring and control IoT system and validation results from neural network control demonstration
     year: '2021'
   Ya3CmFcAAAAJ:V3AGJWp-ZtQC:
-    citations: 4
+    citations: 5
     title: Unsupervised AoA estimation based on dual-path knowledge-aware auto-encoders
     year: '2025'
   Ya3CmFcAAAAJ:VOx2b1Wkg3QC:
@@ -254,7 +254,7 @@ papers:
     title: 'Online Appendix to: Socially-Optimal Design of Service Exchange Platforms with Imperfect Monitoring'
     year: '2015'
   Ya3CmFcAAAAJ:abG-DnoFyZgC:
-    citations: 7
+    citations: 8
     title: Customer incentives for gaming demand response baselines
     year: '2019'
   Ya3CmFcAAAAJ:aqlVkmm33-oC:
@@ -310,11 +310,11 @@ papers:
     title: Robust supply function bidding in electricity markets with renewables
     year: '2016'
   Ya3CmFcAAAAJ:fQNAKQ3IYiAC:
-    citations: 10
+    citations: 11
     title: Adaptive top-k in sgd for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 71
+    citations: 73
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -362,7 +362,7 @@ papers:
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 35
+    citations: 40
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
@@ -370,7 +370,7 @@ papers:
     title: Low-Complexity Minimum Energy Beamforming in Directional Networking
     year: '2020'
   Ya3CmFcAAAAJ:p2g8aNsByqUC:
-    citations: 15
+    citations: 16
     title: 'HySAGE: A hybrid static and adaptive graph embedding network for context-drifting recommendations'
     year: '2022'
   Ya3CmFcAAAAJ:pyW8ca7W8N0C:
@@ -398,11 +398,11 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 72
+    citations: 77
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
-    citations: 60
+    citations: 63
     title: 'Perfedrec++: Enhancing personalized federated recommendation with self-supervised pre-training'
     year: '2024'
   Ya3CmFcAAAAJ:tS2w5q8j5-wC:
