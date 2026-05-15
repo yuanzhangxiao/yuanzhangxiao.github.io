@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-15'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Appendix for ENERGY-EFFICIENT NONSTATIONARY POWER CONTROL IN COGNITIVE RADIO NETWORKS
     year: Unknown Year
   Ya3CmFcAAAAJ:4fKUyHm3Qg0C:
-    citations: 52
+    citations: 53
     title: Improving long-tail item recommendation with graph augmentation
     year: '2023'
   Ya3CmFcAAAAJ:5Ul4iDaHHb8C:
@@ -154,7 +154,7 @@ papers:
     title: Efficient outcomes in repeated games with limited monitoring
     year: '2015'
   Ya3CmFcAAAAJ:OU6Ihb5iCvQC:
-    citations: 111
+    citations: 112
     title: Personalized federated recommendation via joint representation learning, user clustering, and model adaptation
     year: '2022'
   Ya3CmFcAAAAJ:P5F9QuxV20EC:
@@ -314,7 +314,7 @@ papers:
     title: Adaptive top-k in sgd for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 73
+    citations: 74
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -362,7 +362,7 @@ papers:
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 40
+    citations: 42
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
@@ -374,7 +374,7 @@ papers:
     title: 'HySAGE: A hybrid static and adaptive graph embedding network for context-drifting recommendations'
     year: '2022'
   Ya3CmFcAAAAJ:pyW8ca7W8N0C:
-    citations: 72
+    citations: 73
     title: A dynamic jamming game for real-time status updates
     year: '2018'
   Ya3CmFcAAAAJ:q3oQSFYPqjQC:
@@ -422,7 +422,7 @@ papers:
     title: 'Non-invasive stethoscope for continuous assessment of lung water: Towards AI-based data augmentation and prediction'
     year: '2022'
   Ya3CmFcAAAAJ:uWQEDVKXjbEC:
-    citations: 19
+    citations: 20
     title: Towards communication efficient and fair federated personalized sequential recommendation
     year: '2022'
   Ya3CmFcAAAAJ:u_35RYKgDlwC:
