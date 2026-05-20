@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-20'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -114,7 +114,7 @@ papers:
     title: Socially-Optimal Rating Mechanisms in Resource Exchange Systems with Imperfect Monitoring
     year: '2013'
   Ya3CmFcAAAAJ:KxtntwgDAa4C:
-    citations: 1
+    citations: 2
     title: Advanced base station concept for wireless connectivity in rural areas
     year: '2020'
   Ya3CmFcAAAAJ:LPZeul_q3PIC:
@@ -202,7 +202,7 @@ papers:
     title: Integrated energy monitoring and control IoT system and validation results from neural network control demonstration
     year: '2021'
   Ya3CmFcAAAAJ:V3AGJWp-ZtQC:
-    citations: 5
+    citations: 6
     title: Unsupervised AoA estimation based on dual-path knowledge-aware auto-encoders
     year: '2025'
   Ya3CmFcAAAAJ:VOx2b1Wkg3QC:
@@ -314,7 +314,7 @@ papers:
     title: Adaptive top-k in sgd for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 74
+    citations: 75
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -362,7 +362,7 @@ papers:
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 42
+    citations: 45
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
@@ -398,7 +398,7 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 77
+    citations: 80
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
