@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-29'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Appendix for ENERGY-EFFICIENT NONSTATIONARY POWER CONTROL IN COGNITIVE RADIO NETWORKS
     year: Unknown Year
   Ya3CmFcAAAAJ:4fKUyHm3Qg0C:
-    citations: 53
+    citations: 54
     title: Improving long-tail item recommendation with graph augmentation
     year: '2023'
   Ya3CmFcAAAAJ:5Ul4iDaHHb8C:
@@ -118,7 +118,7 @@ papers:
     title: Advanced base station concept for wireless connectivity in rural areas
     year: '2020'
   Ya3CmFcAAAAJ:LPZeul_q3PIC:
-    citations: 25
+    citations: 26
     title: Stakeholder influences on management control systems for ESG governance and reporting in the global automotive industry
     year: '2024'
   Ya3CmFcAAAAJ:LkGwnXOMwfcC:
@@ -146,7 +146,7 @@ papers:
     title: To send or not to send-learning MAC contention
     year: '2015'
   Ya3CmFcAAAAJ:NhqRSupF_l8C:
-    citations: 21
+    citations: 22
     title: Deep reinforcement learning based residential demand side management with edge computing
     year: '2019'
   Ya3CmFcAAAAJ:O3NaXMp0MMsC:
@@ -154,7 +154,7 @@ papers:
     title: Efficient outcomes in repeated games with limited monitoring
     year: '2015'
   Ya3CmFcAAAAJ:OU6Ihb5iCvQC:
-    citations: 112
+    citations: 114
     title: Personalized federated recommendation via joint representation learning, user clustering, and model adaptation
     year: '2022'
   Ya3CmFcAAAAJ:P5F9QuxV20EC:
@@ -286,7 +286,7 @@ papers:
     title: Competition and investment in on-demand networking technology
     year: '2017'
   Ya3CmFcAAAAJ:dshw04ExmUIC:
-    citations: 26
+    citations: 27
     title: Integrating future smart home operation platform with demand side management via deep reinforcement learning
     year: '2021'
   Ya3CmFcAAAAJ:eJXPG6dFmWUC:
@@ -314,7 +314,7 @@ papers:
     title: Adaptive top-k in sgd for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 75
+    citations: 76
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -362,7 +362,7 @@ papers:
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 45
+    citations: 51
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
