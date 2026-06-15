@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-15'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: Joint power and channel resource allocation for F/TDMA decode and forward relay networks
     year: '2009'
   Ya3CmFcAAAAJ:3fE2CSJIrl8C:
-    citations: 67
+    citations: 68
     title: 'Non-stationary resource allocation policies for delay-constrained video streaming: Application to video over Internet-of-Things-enabled networks'
     year: '2014'
   Ya3CmFcAAAAJ:3s1wT3WcHBgC:
@@ -34,7 +34,7 @@ papers:
     title: Appendix for ENERGY-EFFICIENT NONSTATIONARY POWER CONTROL IN COGNITIVE RADIO NETWORKS
     year: Unknown Year
   Ya3CmFcAAAAJ:4fKUyHm3Qg0C:
-    citations: 54
+    citations: 56
     title: Improving long-tail item recommendation with graph augmentation
     year: '2023'
   Ya3CmFcAAAAJ:5Ul4iDaHHb8C:
@@ -154,11 +154,11 @@ papers:
     title: Efficient outcomes in repeated games with limited monitoring
     year: '2015'
   Ya3CmFcAAAAJ:OU6Ihb5iCvQC:
-    citations: 114
+    citations: 116
     title: Personalized federated recommendation via joint representation learning, user clustering, and model adaptation
     year: '2022'
   Ya3CmFcAAAAJ:P5F9QuxV20EC:
-    citations: 69
+    citations: 70
     title: Incentives to manipulate demand response baselines with uncertain event schedules
     year: '2020'
   Ya3CmFcAAAAJ:RHpTSmoSYBkC:
@@ -198,7 +198,7 @@ papers:
     title: 'Pricing and intervention in slotted-aloha: Technical report'
     year: '2012'
   Ya3CmFcAAAAJ:UxriW0iASnsC:
-    citations: 5
+    citations: 6
     title: Integrated energy monitoring and control IoT system and validation results from neural network control demonstration
     year: '2021'
   Ya3CmFcAAAAJ:V3AGJWp-ZtQC:
@@ -229,6 +229,10 @@ papers:
     citations: 17
     title: ICI analysis of MIMO-OFDM systems with independent phase noise at both transmit and receive antennas
     year: '2009'
+  Ya3CmFcAAAAJ:Y5dfb0dijaUC:
+    citations: 0
+    title: Fast Generalization after Interpolation via Critically Damped Momentum Optimization
+    year: '2026'
   Ya3CmFcAAAAJ:YsMSGLbcyi4C:
     citations: 2
     title: Designing information revelation and intervention with an application to flow control
@@ -310,11 +314,11 @@ papers:
     title: Robust supply function bidding in electricity markets with renewables
     year: '2016'
   Ya3CmFcAAAAJ:fQNAKQ3IYiAC:
-    citations: 11
+    citations: 12
     title: Adaptive top-k in sgd for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 76
+    citations: 80
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -338,7 +342,7 @@ papers:
     title: Non-stationary demand side management method for smart grids
     year: '2014'
   Ya3CmFcAAAAJ:kNdYIx-mwKoC:
-    citations: 6
+    citations: 7
     title: Energy-efficient nonstationary spectrum sharing
     year: '2014'
   Ya3CmFcAAAAJ:kRWSkSYxWN8C:
@@ -362,7 +366,7 @@ papers:
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 51
+    citations: 54
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
@@ -370,7 +374,7 @@ papers:
     title: Low-Complexity Minimum Energy Beamforming in Directional Networking
     year: '2020'
   Ya3CmFcAAAAJ:p2g8aNsByqUC:
-    citations: 16
+    citations: 17
     title: 'HySAGE: A hybrid static and adaptive graph embedding network for context-drifting recommendations'
     year: '2022'
   Ya3CmFcAAAAJ:pyW8ca7W8N0C:
@@ -398,7 +402,7 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 80
+    citations: 84
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
