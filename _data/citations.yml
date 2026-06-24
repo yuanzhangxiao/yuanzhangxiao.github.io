@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-24'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -118,7 +118,7 @@ papers:
     title: Advanced base station concept for wireless connectivity in rural areas
     year: '2020'
   Ya3CmFcAAAAJ:LPZeul_q3PIC:
-    citations: 25
+    citations: 27
     title: Stakeholder influences on management control systems for ESG governance and reporting in the global automotive industry
     year: '2024'
   Ya3CmFcAAAAJ:LkGwnXOMwfcC:
@@ -154,7 +154,7 @@ papers:
     title: Efficient outcomes in repeated games with limited monitoring
     year: '2015'
   Ya3CmFcAAAAJ:OU6Ihb5iCvQC:
-    citations: 116
+    citations: 118
     title: Personalized federated recommendation via joint representation learning, user clustering, and model adaptation
     year: '2022'
   Ya3CmFcAAAAJ:P5F9QuxV20EC:
@@ -314,11 +314,11 @@ papers:
     title: Robust supply function bidding in electricity markets with renewables
     year: '2016'
   Ya3CmFcAAAAJ:fQNAKQ3IYiAC:
-    citations: 11
+    citations: 12
     title: Adaptive top-k in sgd for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 80
+    citations: 81
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -374,7 +374,7 @@ papers:
     title: Low-Complexity Minimum Energy Beamforming in Directional Networking
     year: '2020'
   Ya3CmFcAAAAJ:p2g8aNsByqUC:
-    citations: 16
+    citations: 17
     title: 'HySAGE: A hybrid static and adaptive graph embedding network for context-drifting recommendations'
     year: '2022'
   Ya3CmFcAAAAJ:pyW8ca7W8N0C:
@@ -402,11 +402,11 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 84
+    citations: 85
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
-    citations: 63
+    citations: 64
     title: 'Perfedrec++: Enhancing personalized federated recommendation with self-supervised pre-training'
     year: '2024'
   Ya3CmFcAAAAJ:tS2w5q8j5-wC:
@@ -426,7 +426,7 @@ papers:
     title: 'Non-invasive stethoscope for continuous assessment of lung water: Towards AI-based data augmentation and prediction'
     year: '2022'
   Ya3CmFcAAAAJ:uWQEDVKXjbEC:
-    citations: 20
+    citations: 21
     title: Towards communication efficient and fair federated personalized sequential recommendation
     year: '2022'
   Ya3CmFcAAAAJ:u_35RYKgDlwC:
@@ -434,7 +434,7 @@ papers:
     title: Distributed Interference Management for Next Generation Wireless Networks
     year: '2015'
   Ya3CmFcAAAAJ:ufrVoPGSRksC:
-    citations: 2
+    citations: 3
     title: Design and analysis of intervention mechanisms in power control games
     year: '2011'
   Ya3CmFcAAAAJ:vRqMK49ujn8C:
