@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-10'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -102,7 +102,7 @@ papers:
     title: An Empirical Analysis of External and Internal Factors Affecting Manufacturing Firm Failure and Resilience
     year: '2025'
   Ya3CmFcAAAAJ:JV2RwH3_ST0C:
-    citations: 14
+    citations: 15
     title: 'Incentive design in peer review: Rating and repeated endogenous matching'
     year: '2018'
   Ya3CmFcAAAAJ:J_g5lzvAfSwC:
@@ -166,7 +166,7 @@ papers:
     title: Energy-efficient nonstationary power control in cognitive radio networks
     year: '2013'
   Ya3CmFcAAAAJ:SP6oXDckpogC:
-    citations: 18
+    citations: 19
     title: Dynamic stochastic demand response with energy storage
     year: '2021'
   Ya3CmFcAAAAJ:Se3iqnhoufwC:
@@ -182,7 +182,7 @@ papers:
     title: Distributed demand side management among foresighted decision makers in power networks
     year: '2013'
   Ya3CmFcAAAAJ:Tiz5es2fbqcC:
-    citations: 6
+    citations: 7
     title: Adaptive top-K in SGD for communication-efficient distributed learning
     year: '2023'
   Ya3CmFcAAAAJ:Tyk-4Ss8FVUC:
@@ -342,7 +342,7 @@ papers:
     title: Non-stationary demand side management method for smart grids
     year: '2014'
   Ya3CmFcAAAAJ:kNdYIx-mwKoC:
-    citations: 7
+    citations: 6
     title: Energy-efficient nonstationary spectrum sharing
     year: '2014'
   Ya3CmFcAAAAJ:kRWSkSYxWN8C:
@@ -362,11 +362,11 @@ papers:
     title: Foresighted demand side management
     year: '2014'
   Ya3CmFcAAAAJ:maZDTaKrznsC:
-    citations: 5
+    citations: 6
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 55
+    citations: 57
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
@@ -402,7 +402,7 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 85
+    citations: 87
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
