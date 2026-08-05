@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-05'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: Joint power and channel resource allocation for F/TDMA decode and forward relay networks
     year: '2009'
   Ya3CmFcAAAAJ:3fE2CSJIrl8C:
-    citations: 68
+    citations: 64
     title: 'Non-stationary resource allocation policies for delay-constrained video streaming: Application to video over Internet-of-Things-enabled networks'
     year: '2014'
   Ya3CmFcAAAAJ:3s1wT3WcHBgC:
@@ -34,7 +34,7 @@ papers:
     title: Appendix for ENERGY-EFFICIENT NONSTATIONARY POWER CONTROL IN COGNITIVE RADIO NETWORKS
     year: Unknown Year
   Ya3CmFcAAAAJ:4fKUyHm3Qg0C:
-    citations: 58
+    citations: 57
     title: Improving long-tail item recommendation with graph augmentation
     year: '2023'
   Ya3CmFcAAAAJ:5Ul4iDaHHb8C:
@@ -64,7 +64,7 @@ papers:
   Ya3CmFcAAAAJ:AXPGKjj_ei8C:
     citations: 0
     title: Operator Theory-Driven Autoformulation of MDPs for Control of Queueing Systems
-    year: Unknown Year
+    year: '2026'
   Ya3CmFcAAAAJ:B3FOqHPlNUQC:
     citations: 1
     title: 'Text as treatment from Form 10-K: Causal effects of perceived natural hazards on firm profitability'
@@ -98,11 +98,11 @@ papers:
     title: Downlink Linear Max-MSE Transceiver Design for Multiuser MIMO Systems Via Dual Decomposition
     year: '2008'
   Ya3CmFcAAAAJ:J-pR_7NvFogC:
-    citations: 1
-    title: An Empirical Analysis of External and Internal Factors Affecting Manufacturing Firm Failure and Resilience
+    citations: 2
+    title: An empirical analysis of external and internal factors affecting manufacturing firm failure and resilience
     year: '2025'
   Ya3CmFcAAAAJ:JV2RwH3_ST0C:
-    citations: 15
+    citations: 14
     title: 'Incentive design in peer review: Rating and repeated endogenous matching'
     year: '2018'
   Ya3CmFcAAAAJ:J_g5lzvAfSwC:
@@ -118,7 +118,7 @@ papers:
     title: Advanced base station concept for wireless connectivity in rural areas
     year: '2020'
   Ya3CmFcAAAAJ:LPZeul_q3PIC:
-    citations: 29
+    citations: 27
     title: Stakeholder influences on management control systems for ESG governance and reporting in the global automotive industry
     year: '2024'
   Ya3CmFcAAAAJ:LkGwnXOMwfcC:
@@ -154,11 +154,11 @@ papers:
     title: Efficient outcomes in repeated games with limited monitoring
     year: '2015'
   Ya3CmFcAAAAJ:OU6Ihb5iCvQC:
-    citations: 119
+    citations: 120
     title: Personalized federated recommendation via joint representation learning, user clustering, and model adaptation
     year: '2022'
   Ya3CmFcAAAAJ:P5F9QuxV20EC:
-    citations: 70
+    citations: 71
     title: Incentives to manipulate demand response baselines with uncertain event schedules
     year: '2020'
   Ya3CmFcAAAAJ:RHpTSmoSYBkC:
@@ -166,11 +166,11 @@ papers:
     title: Energy-efficient nonstationary power control in cognitive radio networks
     year: '2013'
   Ya3CmFcAAAAJ:SP6oXDckpogC:
-    citations: 19
+    citations: 20
     title: Dynamic stochastic demand response with energy storage
     year: '2021'
   Ya3CmFcAAAAJ:Se3iqnhoufwC:
-    citations: 22
+    citations: 21
     title: Optimal foresighted multi-user wireless video
     year: '2014'
   Ya3CmFcAAAAJ:TFP_iSt0sucC:
@@ -182,11 +182,11 @@ papers:
     title: Distributed demand side management among foresighted decision makers in power networks
     year: '2013'
   Ya3CmFcAAAAJ:Tiz5es2fbqcC:
-    citations: 7
-    title: Adaptive top-K in SGD for communication-efficient distributed learning
+    citations: 9
+    title: Adaptive Top-K in SGD for communication-efficient distributed learning
     year: '2023'
   Ya3CmFcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 15
+    citations: 16
     title: Intervention with private information, imperfect monitoring and costly communication
     year: '2013'
   Ya3CmFcAAAAJ:ULOm3_A8WrAC:
@@ -198,7 +198,7 @@ papers:
     title: 'Pricing and intervention in slotted-aloha: Technical report'
     year: '2012'
   Ya3CmFcAAAAJ:UxriW0iASnsC:
-    citations: 6
+    citations: 7
     title: Integrated energy monitoring and control IoT system and validation results from neural network control demonstration
     year: '2021'
   Ya3CmFcAAAAJ:V3AGJWp-ZtQC:
@@ -210,7 +210,7 @@ papers:
     title: 'The Wireless Chest-Patch RF Sensors and Measurement System for Assessing Fluid Accumulation in Lungs: A Gateway to Discovering the Mysteries of the Lung'
     year: '2024'
   Ya3CmFcAAAAJ:W7OEmFMy1HYC:
-    citations: 33
+    citations: 36
     title: Incentive design for direct load control programs
     year: '2013'
   Ya3CmFcAAAAJ:WF5omc3nYNoC:
@@ -222,7 +222,7 @@ papers:
     title: A novel genetic algorithm based method for measuring complex permittivity of thin samples in the compact radar frequency band
     year: '2023'
   Ya3CmFcAAAAJ:XiSMed-E-HIC:
-    citations: 3
+    citations: 2
     title: Improving business resilience
     year: '2022'
   Ya3CmFcAAAAJ:Y0pCki6q_DkC:
@@ -241,6 +241,10 @@ papers:
     citations: 2
     title: 'Spectrum sharing policies for heterogeneous delay-sensitive users: A novel design framework'
     year: '2013'
+  Ya3CmFcAAAAJ:_B80troHkn4C:
+    citations: 7
+    title: Autoformulation of Mathematical Optimization Models Using LLMs (2025)
+    year: '2025'
   Ya3CmFcAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: Appendix for SOCIALLY-OPTIMAL DESIGN OF CROWDSOURCING PLATFORMS WITH REPUTATION UPDATE ERRORS
@@ -271,7 +275,7 @@ papers:
     year: '2019'
   Ya3CmFcAAAAJ:bEWYMUwI8FkC:
     citations: 4
-    title: Spectrum sharing for delay-sensitive applications with continuing QoS guarantees.
+    title: Spectrum sharing for delay-sensitive applications with continuing QoS guarantees
     year: '2014'
   Ya3CmFcAAAAJ:blknAaTinKkC:
     citations: 0
@@ -314,11 +318,11 @@ papers:
     title: Robust supply function bidding in electricity markets with renewables
     year: '2016'
   Ya3CmFcAAAAJ:fQNAKQ3IYiAC:
-    citations: 12
-    title: Adaptive top-k in sgd for communication-efficient distributed learning in multi-robot collaboration
+    citations: 13
+    title: Adaptive top-k in SGD for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 81
+    citations: 79
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -326,7 +330,7 @@ papers:
     title: Efficient interference management policies for femtocell networks
     year: '2015'
   Ya3CmFcAAAAJ:hqOjcs7Dif8C:
-    citations: 112
+    citations: 111
     title: Demand side management in smart grids using a repeated game framework
     year: '2014'
   Ya3CmFcAAAAJ:iH-uZ7U-co4C:
@@ -334,7 +338,7 @@ papers:
     title: Optimal foresighted packet scheduling and resource allocation for multi-user video transmission in 4G cellular networks
     year: '2014'
   Ya3CmFcAAAAJ:isC4tDSrTZIC:
-    citations: 45
+    citations: 44
     title: Dynamic incentive design for participation in direct load scheduling programs
     year: '2014'
   Ya3CmFcAAAAJ:j3f4tGmQtD8C:
@@ -354,7 +358,7 @@ papers:
     title: Optimal Sequential Resource Sharing and Exchange in Multi-Agent Systems
     year: '2014'
   Ya3CmFcAAAAJ:l7t_Zn2s7bgC:
-    citations: 13
+    citations: 14
     title: 'Non-Invasive assessment of lung water content using chest patch RF sensors: A computer study using NIH patients CT scan database and AI classification algorithms'
     year: '2023'
   Ya3CmFcAAAAJ:mVmsd5A6BfQC:
@@ -366,7 +370,7 @@ papers:
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 61
+    citations: 69
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
@@ -402,19 +406,23 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 91
+    citations: 92
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
-    citations: 64
+    citations: 65
     title: 'Perfedrec++: Enhancing personalized federated recommendation with self-supervised pre-training'
     year: '2024'
   Ya3CmFcAAAAJ:tS2w5q8j5-wC:
     citations: 0
     title: 'CPD 2023: The 6th International Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing'
     year: '2023'
+  Ya3CmFcAAAAJ:tkaPQYYpVKoC:
+    citations: 0
+    title: Joint Power and Channel Resource Allocation for F/TDMA Decode and Forward Relay Networks
+    year: '2009'
   Ya3CmFcAAAAJ:u-x6o8ySG0sC:
-    citations: 32
+    citations: 31
     title: 'Repeated games with intervention: Theory and applications in communications'
     year: '2012'
   Ya3CmFcAAAAJ:u5HHmVD_uO8C:
@@ -426,7 +434,7 @@ papers:
     title: 'Non-invasive stethoscope for continuous assessment of lung water: Towards AI-based data augmentation and prediction'
     year: '2022'
   Ya3CmFcAAAAJ:uWQEDVKXjbEC:
-    citations: 21
+    citations: 22
     title: Towards communication efficient and fair federated personalized sequential recommendation
     year: '2022'
   Ya3CmFcAAAAJ:u_35RYKgDlwC:
