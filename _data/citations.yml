@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-19'
 papers:
   Ya3CmFcAAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Appendix for ENERGY-EFFICIENT NONSTATIONARY POWER CONTROL IN COGNITIVE RADIO NETWORKS
     year: Unknown Year
   Ya3CmFcAAAAJ:4fKUyHm3Qg0C:
-    citations: 57
+    citations: 58
     title: Improving long-tail item recommendation with graph augmentation
     year: '2023'
   Ya3CmFcAAAAJ:5Ul4iDaHHb8C:
@@ -62,7 +62,7 @@ papers:
     title: Limited-feedback modified block diagonalization for multiuser MIMO downlink with time-varying channels
     year: '2009'
   Ya3CmFcAAAAJ:AXPGKjj_ei8C:
-    citations: 0
+    citations: 1
     title: Operator Theory-Driven Autoformulation of MDPs for Control of Queueing Systems
     year: '2026'
   Ya3CmFcAAAAJ:B3FOqHPlNUQC:
@@ -146,7 +146,7 @@ papers:
     title: To send or not to send-learning MAC contention
     year: '2015'
   Ya3CmFcAAAAJ:NhqRSupF_l8C:
-    citations: 22
+    citations: 23
     title: Deep reinforcement learning based residential demand side management with edge computing
     year: '2019'
   Ya3CmFcAAAAJ:O3NaXMp0MMsC:
@@ -182,7 +182,7 @@ papers:
     title: Distributed demand side management among foresighted decision makers in power networks
     year: '2013'
   Ya3CmFcAAAAJ:Tiz5es2fbqcC:
-    citations: 9
+    citations: 10
     title: Adaptive Top-K in SGD for communication-efficient distributed learning
     year: '2023'
   Ya3CmFcAAAAJ:Tyk-4Ss8FVUC:
@@ -210,7 +210,7 @@ papers:
     title: 'The Wireless Chest-Patch RF Sensors and Measurement System for Assessing Fluid Accumulation in Lungs: A Gateway to Discovering the Mysteries of the Lung'
     year: '2024'
   Ya3CmFcAAAAJ:W7OEmFMy1HYC:
-    citations: 36
+    citations: 37
     title: Incentive design for direct load control programs
     year: '2013'
   Ya3CmFcAAAAJ:WF5omc3nYNoC:
@@ -222,7 +222,7 @@ papers:
     title: A novel genetic algorithm based method for measuring complex permittivity of thin samples in the compact radar frequency band
     year: '2023'
   Ya3CmFcAAAAJ:XiSMed-E-HIC:
-    citations: 2
+    citations: 3
     title: Improving business resilience
     year: '2022'
   Ya3CmFcAAAAJ:Y0pCki6q_DkC:
@@ -322,7 +322,7 @@ papers:
     title: Adaptive top-k in SGD for communication-efficient distributed learning in multi-robot collaboration
     year: '2024'
   Ya3CmFcAAAAJ:geHnlv5EZngC:
-    citations: 79
+    citations: 80
     title: Integrating large language models into recommendation via mutual augmentation and adaptive aggregation
     year: '2026'
   Ya3CmFcAAAAJ:hMod-77fHWUC:
@@ -330,7 +330,7 @@ papers:
     title: Efficient interference management policies for femtocell networks
     year: '2015'
   Ya3CmFcAAAAJ:hqOjcs7Dif8C:
-    citations: 111
+    citations: 112
     title: Demand side management in smart grids using a repeated game framework
     year: '2014'
   Ya3CmFcAAAAJ:iH-uZ7U-co4C:
@@ -370,7 +370,7 @@ papers:
     title: Rating and matching in peer review systems
     year: '2014'
   Ya3CmFcAAAAJ:mvPsJ3kp5DgC:
-    citations: 69
+    citations: 73
     title: Autoformulation of mathematical optimization models using LLMs
     year: '2024'
   Ya3CmFcAAAAJ:nb7KW1ujOQ8C:
@@ -406,11 +406,11 @@ papers:
     title: Efficiency of supply function equilibrium in networked markets
     year: '2015'
   Ya3CmFcAAAAJ:sSrBHYA8nusC:
-    citations: 92
+    citations: 93
     title: 'Recranker: Instruction tuning large language model as ranker for top-k recommendation'
     year: '2025'
   Ya3CmFcAAAAJ:tOudhMTPpwUC:
-    citations: 65
+    citations: 66
     title: 'Perfedrec++: Enhancing personalized federated recommendation with self-supervised pre-training'
     year: '2024'
   Ya3CmFcAAAAJ:tS2w5q8j5-wC:
